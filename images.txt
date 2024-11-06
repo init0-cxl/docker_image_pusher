@@ -8,5 +8,7 @@
 #uifd/ui-for-docker
 #tutum/influxdb
 #google/cadvisor
-grafana/grafana
+#grafana/grafana
+
+uozi/nginx-ui:latest
 
