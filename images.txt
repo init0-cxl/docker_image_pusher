@@ -12,3 +12,4 @@
 
 uozi/nginx-ui:latest
 
+ghost
