@@ -10,6 +10,8 @@
 #google/cadvisor
 #grafana/grafana
 
-uozi/nginx-ui:latest
+#uozi/nginx-ui:latest
 
-ghost
+#ghost
+
+paketobuildpacks/oracle
