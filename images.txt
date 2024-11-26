@@ -14,5 +14,6 @@
 
 #ghost
 
-paketobuildpacks/oracle
-oracle
+#paketobuildpacks/oracle
+#oracle
+database-enterprise:12.2.0.1
