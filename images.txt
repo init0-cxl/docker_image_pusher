@@ -15,3 +15,4 @@
 #ghost
 
 paketobuildpacks/oracle
+oracle
