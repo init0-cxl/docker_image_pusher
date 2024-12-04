@@ -22,4 +22,5 @@
 #tomcat
 #busybox
 #apache
-httpd
+#httpd
+zookeeper
