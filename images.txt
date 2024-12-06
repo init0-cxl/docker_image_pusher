@@ -23,4 +23,5 @@
 #busybox
 #apache
 #httpd
-zookeeper
+#zookeeper
+container-registry.oracle.com/database/enterprise:latest
