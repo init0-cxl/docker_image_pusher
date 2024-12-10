@@ -26,7 +26,7 @@
 #zookeeper
 #container-registry.oracle.com/database/enterprise:latest
 #myjenkins-blueocean:2.346.2-1
-docker:dind
+#docker:dind      +++
 #mysql:5.7.39    +++
 #elasticsearch:7.17.10  +++
-#ops-gitea:1.1
+ops-gitea:1.1
