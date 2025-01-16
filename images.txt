@@ -30,4 +30,4 @@
 #mysql:5.7.39    +++
 #elasticsearch:7.17.10  +++
 #gitea:1.1
-jenkins
+jenkins/jenkins
