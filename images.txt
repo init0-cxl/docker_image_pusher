@@ -8,7 +8,7 @@
 #uifd/ui-for-docker
 #tutum/influxdb
 #google/cadvisor
-#grafana/grafana
+grafana/grafana
 
 #uozi/nginx-ui:latest
 
@@ -31,4 +31,4 @@
 #elasticsearch:7.17.10  +++
 #gitea:1.1
 #jenkins/jenkins
-gitlab/gitlab-ce
+#gitlab/gitlab-ce
