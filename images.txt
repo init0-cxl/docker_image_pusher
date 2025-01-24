@@ -32,5 +32,5 @@
 #gitea:1.1
 #jenkins/jenkins
 #gitlab/gitlab-ce
-
-neo4j
+redis:6.0
+#neo4j
