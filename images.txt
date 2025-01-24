@@ -32,5 +32,6 @@
 #gitea:1.1
 #jenkins/jenkins
 #gitlab/gitlab-ce
-redis:6.0
+#redis:6.0
 #neo4j
+adoptopenjdk:8-jre-openj9
