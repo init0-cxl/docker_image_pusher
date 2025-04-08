@@ -35,4 +35,5 @@
 #redis:6.0
 #neo4j
 #adoptopenjdk:8-jre-openj9
-nginx:1.21
+#nginx:1.21
+linshen/prompt-optimizer
