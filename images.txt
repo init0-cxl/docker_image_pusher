@@ -36,4 +36,5 @@
 #neo4j
 #adoptopenjdk:8-jre-openj9
 #nginx:1.21
-linshen/prompt-optimizer
+#linshen/prompt-optimizer
+grafana/loki
