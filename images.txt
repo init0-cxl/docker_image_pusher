@@ -38,4 +38,5 @@
 #nginx:1.21
 #linshen/prompt-optimizer
 #grafana/loki
-grafana/promtail
+#grafana/promtail
+longhornio/longhorn-manager:v1.4.1
