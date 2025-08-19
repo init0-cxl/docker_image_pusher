@@ -39,4 +39,4 @@
 #linshen/prompt-optimizer
 #grafana/loki
 #grafana/promtail
-longhornio/longhorn-manager:v1.4.1
+longhornio/longhorn-manager:v1.4.1-arm64
